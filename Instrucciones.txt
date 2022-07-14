@@ -1,0 +1,8 @@
+Al tener el proyecto abierto en
+VSCode debes ejecutar los siguientes
+comandos:
+
+1.-php artisan migrate
+
+2.-php artisan db:seed
+
